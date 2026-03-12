@@ -1,0 +1,27 @@
+[
+    {
+        "Year": "2021",
+        "Artist": "The Weeknd",
+        "Song": "Blinding Lights"
+    },
+    {
+        "Year": "2015",
+        "Artist": "Mark Ronson ft. Bruno Mars",
+        "Song": "Uptown Funk"
+    },
+    {
+        "Year": "2019",
+        "Artist": "Lil Nas X",
+        "Song": "Old Town Road"
+    },
+    {
+        "Year": "cat top_songs_data.json",
+        "Artist": "The Weeknd",
+        "Song": "Blinding Lights"
+    },
+    {
+        "Year": "cat << 'EOF' > top_songs_data.json",
+        "Artist": "[",
+        "Song": "{\"Year\": \"2021\", \"Artist\": \"The Weeknd\", \"Song\": \"Blinding Lights\"},"
+    }
+]
